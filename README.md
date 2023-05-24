@@ -17,5 +17,6 @@ Stages
 
 ![image](https://github.com/adityasneo/GoogleCloud/assets/128022129/1df7f86a-19f8-4400-9176-16acceb2b875)
 
+Comparison of AWS vs Google vs Azure
 
-
+https://cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison
