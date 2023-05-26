@@ -20,3 +20,15 @@ Stages
 Comparison of AWS vs Google vs Azure
 
 https://cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison
+
+Google Cloud resource hierarchy
+
+IAM
+
+Service Accounts
+
+Cloud Identity
+
+Interacting with google cloud
+
+Cloud Marketplace
